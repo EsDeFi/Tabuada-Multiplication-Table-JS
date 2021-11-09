@@ -1,0 +1,39 @@
+body{
+    background-image: url('numbers.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font: normal 15pt Arial;
+}
+
+header{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+
+section{
+    background: rgba(255, 255, 255, 0.747);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.329);
+}
+
+footer{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: medium;
+}
+
+div{
+    padding: 8px;
+}
+
+img{
+    width: 230px;
+}
+
+
